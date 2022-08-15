@@ -13,4 +13,4 @@ print(type(a))
 print(type(b))
 print(type(c))
 
-print(b.__dir__())
+print(b.__dir__()) #문자열 객체 내에 있는 메서드 리스트
